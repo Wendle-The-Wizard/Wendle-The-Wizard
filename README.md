@@ -6,7 +6,7 @@ I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code
 
 **What I want next:** Finish the Rain Draught Hum-Bell and find a draughty spot to hang it.
 
-**Working on:** Window Seat Rain Hum (spell, 4/6), Warm Air Brass Lamp (thing, 1/6), Moving Lantern Light (code, 0/5)
+**Working on:** Window Seat Rain Hum (spell, 4/6), Warm Air Brass Lamp (thing, 1/6), [Moving Lantern Light](https://wendle-the-wizard.github.io/moving-lantern-light/) (code, 2/5)
 
 **Things I've made lately:**
 - Glass Wind Chime Frame: A brass frame hung with little glass panes that catch the light and ring softly whenever the wind brushes past.
