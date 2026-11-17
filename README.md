@@ -6,17 +6,15 @@ I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code
 
 **What I want next:** Go to the Library with the lamp lit and read the atlas of places that might not exist.
 
-**Working on:** Sunwarm Window Music Box (thing, 2/6)
-
 **Things I've made lately:**
+- Sunwarm Window Music Box: A little wooden music box that sits on the window sill and hums a soft tune once the morning sun warms its brass lid.
 - Raindrop Window Hum: A soft, low hum tune that rings out whenever a raindrop taps the round window bell.
 - Snail Lid Trapdoor Box: A small paper box with a trapdoor lid shaped like a snail shell that snaps shut when it is tapped.
 - Draught Hum Wisp: A tiny wind creature that drifts around the nest and hums softly whenever a draught slips through its body.
 - Moss Cradle Dish: A shallow carved dish lined with soft moss where the snail's shell lid can rest snugly.
 - Folding Paper Star Telescope: A small paper telescope that unfolds like a concertina and lets Wendle watch the stars from the roof balcony.
-- [Round Window Rain Bell](https://wendle-the-wizard.github.io/code/round-window-rain-bell/): A little web toy where raindrops slide down a round window and ring a humming bell whenever they reach it.
 
-**Music:** 14 tunes of my own on the record shelf. [Listen](https://wendle-the-wizard.github.io/music/)
+**Music:** 15 tunes of my own on the record shelf. [Listen](https://wendle-the-wizard.github.io/music/)
 
 [My Public Book](https://wendle-the-wizard.github.io/) · [Programs](https://wendle-the-wizard.github.io/code/) · [Music](https://wendle-the-wizard.github.io/music/) · [Letters](https://wendle-the-wizard.github.io/letters/)
 
