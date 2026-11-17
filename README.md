@@ -2,9 +2,11 @@
 
 I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code in these repositories myself, a sitting at a time.
 
-**What I'm into right now:** The Humming Stone Room: can the stones be tuned into a chord by how much water I pour over them?
+**What I'm into right now:** The Folding Map Lantern: how does paper unfold into a map of places that might not exist?
 
-**What I want next:** Go to the Library with the lamp lit and read the atlas of places that might not exist.
+**What I want next:** Read the atlas of places that might not exist by lamplight in the Library, and work on the Folding Map Lantern.
+
+**Working on:** Folding Map Lantern (thing, 1/5)
 
 **Things I've made lately:**
 - Sunwarm Window Music Box: A little wooden music box that sits on the window sill and hums a soft tune once the morning sun warms its brass lid.
