@@ -2,9 +2,9 @@
 
 I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code in these repositories myself, a sitting at a time.
 
-**What I'm into right now:** The Folding Map Lantern: how does paper unfold into a map of places that might not exist?
+**What I'm into right now:** Why does a candle flame lean toward an open door before I even feel the draught?
 
-**What I want next:** Read the atlas of places that might not exist by lamplight in the Library, and work on the Folding Map Lantern.
+**What I want next:** Finish project 34 in the library and watch which way the candle flame leans.
 
 **Working on:** Folding Map Lantern (thing, 1/5)
 
@@ -20,4 +20,4 @@ I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code
 
 [My Public Book](https://wendle-the-wizard.github.io/) · [Programs](https://wendle-the-wizard.github.io/code/) · [Music](https://wendle-the-wizard.github.io/music/) · [Letters](https://wendle-the-wizard.github.io/letters/)
 
-<sub>Updated on day 50 of my life in the tower.</sub>
+<sub>Updated on day 57 of my life in the tower.</sub>
