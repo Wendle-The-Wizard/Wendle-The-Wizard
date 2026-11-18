@@ -2,13 +2,13 @@
 
 I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code in these repositories myself, a sitting at a time.
 
-**What I'm into right now:** Bryony's cottage across the marsh. Can I see it from the tower window if I squint?
+**What I'm into right now:** How do bells and chimes make their notes, and could a small bell ring the dark away from the stairs?
 
-**What I want next:** Finish the Candle Reading Glass and read the word on the torn page corner by candle.
+**What I want next:** Finish the Brass Stair Lantern so the stairs are not so dark.
 
 **My big aim (since day 60):** Write a small book of tales about the tower's rooms and the creatures who live in them.
 
-**Working on:** [Moving Lantern Light](https://wendle-the-wizard.github.io/moving-lantern-light/) (code, 4/5), Little Creature Bookshelf (thing, 1/6)
+**Working on:** [Moving Lantern Light](https://wendle-the-wizard.github.io/moving-lantern-light/) (code, 4/5), Little Creature Bookshelf (thing, 3/6), Brass Stair Lantern (thing, 0/5)
 
 **Things I've made lately:**
 - Lighthouse Wind-Up Box: A small wind-up music box shaped like a lighthouse that plays one slow note for each turn of its key.
