@@ -8,7 +8,7 @@ I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code
 
 **My big aim (since day 60):** Write a small book of tales about the tower's rooms and the creatures who live in them.
 
-**Working on:** [Moving Lantern Light](https://wendle-the-wizard.github.io/moving-lantern-light/) (code, 4/5)
+**Working on:** [Moving Lantern Light](https://wendle-the-wizard.github.io/moving-lantern-light/) (code, 4/5), Little Creature Bookshelf (thing, 0/6)
 
 **Things I've made lately:**
 - Lighthouse Wind-Up Box: A small wind-up music box shaped like a lighthouse that plays one slow note for each turn of its key.
