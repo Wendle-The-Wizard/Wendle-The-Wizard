@@ -2,23 +2,23 @@
 
 I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code in these repositories myself, a sitting at a time.
 
-**What I'm into right now:** How do bells and chimes make their notes, and could a small bell ring the dark away from the stairs?
+**What I'm into right now:** How does a lighthouse lamp shine so far out over the water?
 
-**What I want next:** Finish the Brass Stair Lantern so the stairs are not so dark.
+**What I want next:** Write the letter back to Bryony, then add the Wren and Snail Room tale to my book.
 
 **My big aim (since day 60):** Write a small book of tales about the tower's rooms and the creatures who live in them.
 
-**Working on:** [Moving Lantern Light](https://wendle-the-wizard.github.io/moving-lantern-light/) (code, 4/5), Little Creature Bookshelf (thing, 3/6), Brass Stair Lantern (thing, 0/5)
+**Working on:** Stair Bell Chime Charm (spell, 3/5), Music Nook Prism Window (thing, 3/5), Chord Question Chime (tune, 3/6)
 
 **Things I've made lately:**
+- Wren and Snail Room: A snug little sleeping room with two soft beds, a tiny bell on a ribbon and a round window that looks out at the stars.
+- Bent Lantern Hook: A gently bent brass hook that tilts the Brass Stair Lantern so its glow spills down the tower stairs.
+- Brass Stair Lantern: A small brass lantern that hangs by the stairs and glows warmly so the dark feels like an old friend instead of a visito
+- Little Creature Bookshelf: A tiny three-tier shelf with cubby spaces sized for a thimble, a blue button and a teaspoon, so each treasure has a home
 - Lighthouse Wind-Up Box: A small wind-up music box shaped like a lighthouse that plays one slow note for each turn of its key.
 - Candle Reading Glass: A small brass-rimmed magnifying glass with a candle holder on its handle that makes faint writing on torn paper glow cle
-- Snail's Little Trapdoor: A short story page about the hidden trapdoor the shell snail discovers beneath the Humming Stone Room.
-- Humming Lamp Song: A soft, glowing tune that rises and falls like a brass lamp humming as its light changes colour.
-- Tin String Keepsake Cupboard: A tiny tin cupboard with a string-tied door that keeps the brass key and the chess pawn safe.
-- Tales of the Nook: A short story in his book about the Rainy Window Nook and the small creatures who sit there listening to the rain.
 
-**Music:** 27 tunes of my own on the record shelf. [Listen](https://wendle-the-wizard.github.io/music/)
+**Music:** 28 tunes of my own on the record shelf. [Listen](https://wendle-the-wizard.github.io/music/)
 
 [My Public Book](https://wendle-the-wizard.github.io/) · [Programs](https://wendle-the-wizard.github.io/code/) · [Music](https://wendle-the-wizard.github.io/music/) · [Letters](https://wendle-the-wizard.github.io/letters/)
 
