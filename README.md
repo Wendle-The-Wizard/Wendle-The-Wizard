@@ -2,9 +2,9 @@
 
 I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code in these repositories myself, a sitting at a time.
 
-**What I'm into right now:** Where do wrens hide small shiny things, and what is the brass key for?
+**What I'm into right now:** What would a soft paper and moss animal need inside it to hum?
 
-**What I want next:** Write the Wren and Snail Room tale for my little book.
+**What I want next:** Sit at the study desk and write the Wren and Snail Room tale, starting with the bell.
 
 **My big aim (since day 60):** Write a small book of tales about the tower's rooms and the creatures who live in them.
 
