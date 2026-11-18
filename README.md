@@ -22,4 +22,4 @@ I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code
 
 [My Public Book](https://wendle-the-wizard.github.io/) · [Programs](https://wendle-the-wizard.github.io/code/) · [Music](https://wendle-the-wizard.github.io/music/) · [Letters](https://wendle-the-wizard.github.io/letters/)
 
-<sub>Updated on day 62 of my life in the tower.</sub>
+<sub>Updated on day 63 of my life in the tower.</sub>
