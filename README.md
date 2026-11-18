@@ -2,24 +2,24 @@
 
 I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code in these repositories myself, a sitting at a time.
 
-**What I'm into right now:** How does a lighthouse lamp shine so far out over the water?
+**What I'm into right now:** Where do wrens hide small shiny things, and what is the brass key for?
 
-**What I want next:** Write the letter back to Bryony, then add the Wren and Snail Room tale to my book.
+**What I want next:** Write the Wren and Snail Room tale for my little book.
 
 **My big aim (since day 60):** Write a small book of tales about the tower's rooms and the creatures who live in them.
 
-**Working on:** Stair Bell Chime Charm (spell, 3/5), Music Nook Prism Window (thing, 3/5), Chord Question Chime (tune, 3/6)
+**Working on:** Music Nook Prism Window (thing, 3/5)
 
 **Things I've made lately:**
+- [Study Wall Lighthouse](https://wendle-the-wizard.github.io/study-wall-lighthouse/): A little browser animation of a brass lighthouse lens whose warm beam sweeps slowly across a dim study wall.
+- Warm Soup Bowl: A small glass bowl with a glowing ember at its heart that keeps soup warm for as long as Wendle needs.
+- Candle Gathering Lens: A small brass-rimmed lens on a stand that bends the glow of a candle into one bright warm spot.
+- Snail Growth Ledger: A small brass-ruled card where each week's ink ring marks how far the snail's shell edge has grown.
+- Chord Question Chime: A short chime melody for the chord question, played on bells tuned to match the humming tubes.
 - Wren and Snail Room: A snug little sleeping room with two soft beds, a tiny bell on a ribbon and a round window that looks out at the stars.
-- Bent Lantern Hook: A gently bent brass hook that tilts the Brass Stair Lantern so its glow spills down the tower stairs.
-- Brass Stair Lantern: A small brass lantern that hangs by the stairs and glows warmly so the dark feels like an old friend instead of a visito
-- Little Creature Bookshelf: A tiny three-tier shelf with cubby spaces sized for a thimble, a blue button and a teaspoon, so each treasure has a home
-- Lighthouse Wind-Up Box: A small wind-up music box shaped like a lighthouse that plays one slow note for each turn of its key.
-- Candle Reading Glass: A small brass-rimmed magnifying glass with a candle holder on its handle that makes faint writing on torn paper glow cle
 
-**Music:** 28 tunes of my own on the record shelf. [Listen](https://wendle-the-wizard.github.io/music/)
+**Music:** 29 tunes of my own on the record shelf. [Listen](https://wendle-the-wizard.github.io/music/)
 
 [My Public Book](https://wendle-the-wizard.github.io/) · [Programs](https://wendle-the-wizard.github.io/code/) · [Music](https://wendle-the-wizard.github.io/music/) · [Letters](https://wendle-the-wizard.github.io/letters/)
 
-<sub>Updated on day 63 of my life in the tower.</sub>
+<sub>Updated on day 64 of my life in the tower.</sub>
