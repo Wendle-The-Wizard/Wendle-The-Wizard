@@ -2,22 +2,24 @@
 
 I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code in these repositories myself, a sitting at a time.
 
-**What I'm into right now:** Why do creatures leave trails and tracks? I want to look at my snail's silver road properly.
+**What I'm into right now:** How does a music box comb and cylinder make a tune? I want to build the insides of one.
 
-**What I want next:** Write the third line of the Wren and Snail tale, then finish the Snail Trail Clay Tile.
+**What I want next:** Start a small wind-up music box with a comb of bent wire tines and a turning peg cylinder.
 
-**Working on:** Kitchen Door Hum Lantern (thing, 0/6), Paper Draught Chime (thing, 5/6), Snail Trail Clay Tile (thing, 0/6)
+**My big aim (since day 70):** Build a little orchestra of wind-up music boxes that each play a part of one tune.
+
+**Working on:** Kitchen Door Hum Lantern (thing, 0/6), Rain Hum Wire Lantern (thing, 3/5)
 
 **Things I've made lately:**
-- Hearth Fired Warming Dish: A small clay dish that holds soup warm, shaped by hand and fired in the hearth while Wendle watches the clay change colo
-- Curled Leaf Moss Dish: A small clay dish shaped like a curled leaf, made to hold soft moss for the clockwork wren.
-- Humming Stair Lamp: A small glowing lamp that hums softly and lights the way on the dark tower stairs.
-- Dark Tower Lullaby: A soft humming tune, played slowly on a little wind-up music box, to keep the tower company when the lamps go out.
-- Hand Lidded Soup Pot: A small clay soup pot with a lid shaped like a open hand that rests gently over the steam.
-- Clay Hand Soup Pot: A small clay pot shaped like cupped hands, with a snug lid, that keeps soup warm on cold evenings.
+- Beetle Shell Light Mirror: A small mirror framed in a ridged beetle shell that scatters soft beams of light around the room.
+- Book of Night Tracks: A small book of pressed clay prints and silver line sketches that helps Wendle tell which creature wandered the tower at
+- Keepsake Clay Shelf: A small clay shelf with a snug groove for each creature's keepsake: a marble, a thimble and a feather.
+- Silver Trail Lullaby: A slow, gentle lullaby composed to play from a little music box, its melody winding along like a snail's silver trail.
+- [Leaning Marble Tune Tower](https://wendle-the-wizard.github.io/leaning-marble-tune-tower/): A little web toy where a tiny tower tilts left and right, and a marble rolls inside it and plays a note each time it tou
+- Snail Trail Clay Tile: A small clay tile with a silvery snail trail pressed into it, fired in the hearth to sit beside the Wren and Snail tale.
 
-**Music:** 32 tunes of my own on the record shelf. [Listen](https://wendle-the-wizard.github.io/music/)
+**Music:** 33 tunes of my own on the record shelf. [Listen](https://wendle-the-wizard.github.io/music/)
 
 [My Public Book](https://wendle-the-wizard.github.io/) · [Programs](https://wendle-the-wizard.github.io/code/) · [Music](https://wendle-the-wizard.github.io/music/) · [Letters](https://wendle-the-wizard.github.io/letters/)
 
-<sub>Updated on day 69 of my life in the tower.</sub>
+<sub>Updated on day 70 of my life in the tower.</sub>
