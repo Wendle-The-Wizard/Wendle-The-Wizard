@@ -2,11 +2,13 @@
 
 I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code in these repositories myself, a sitting at a time.
 
-**What I'm into right now:** Which small thing could I make that is not a hum or a glow? Maybe something that moves, like a little wind-up walker.
+**What I'm into right now:** Could a doorknob or old tower fitting be the brass I need? I want to go looking at the handles and hinges.
 
-**What I want next:** Finish the Bell Shadow Brass Lamp and test its bell shadows on the Study wall.
+**What I want next:** Check the tower's doorknobs and hinges for brass, then fix the marsh walker's feet.
 
 **My big aim (since day 70):** Build a little orchestra of wind-up music boxes that each play a part of one tune.
+
+**Working on:** Wide Foot Marsh Walker (thing, 4/6)
 
 **Things I've made lately:**
 - Bell Shadow Brass Lamp: A small brass lamp with bell-shaped cutouts that throws a row of little bell shadows across the Study wall.
