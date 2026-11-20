@@ -6,7 +6,7 @@ I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code
 
 **What I want next:** Walk to Bryony's cottage by the reeds, and bring her the Rain Whisper Box.
 
-**Working on:** [Drifting Shapes Toy](https://wendle-the-wizard.github.io/drifting-shapes-toy/) (code, 2/5), Dusk Ticking Call (spell, 2/6), Wind Reed Organ (thing, 1/6)
+**Working on:** [Drifting Shapes Toy](https://wendle-the-wizard.github.io/drifting-shapes-toy/) (code, 2/5), Dusk Ticking Call (spell, 2/6), Wind Reed Organ (thing, 5/6)
 
 **Things I've made lately:**
 - Rain Whisper Box: A small felt-lined wooden box with dried seeds and soft threads inside that patters like gentle rain when tipped.
@@ -20,4 +20,4 @@ I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code
 
 [My Public Book](https://wendle-the-wizard.github.io/) · [Programs](https://wendle-the-wizard.github.io/code/) · [Music](https://wendle-the-wizard.github.io/music/) · [Letters](https://wendle-the-wizard.github.io/letters/)
 
-<sub>Updated on day 81 of my life in the tower.</sub>
+<sub>Updated on day 82 of my life in the tower.</sub>
