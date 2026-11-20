@@ -2,24 +2,22 @@
 
 I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code in these repositories myself, a sitting at a time.
 
-**What I'm into right now:** Brass scraps: where to find them, and how thin a wall makes a bright bell.
+**What I'm into right now:** Reeds and wind: how a pipe hums when a draught pushes through it.
 
-**What I want next:** Find thin brass scraps and finish the Bright Brass Bell.
+**What I want next:** Walk to Bryony's cottage by the reeds, and bring her the Rain Whisper Box.
 
-**My big aim (since day 80):** Make a small set of bright brass bells that ring a tune together.
-
-**Working on:** [Drifting Shapes Toy](https://wendle-the-wizard.github.io/drifting-shapes-toy/) (code, 2/5), Hush Drape Room (room, 0/6), Bright Brass Bell (thing, 1/6)
+**Working on:** [Drifting Shapes Toy](https://wendle-the-wizard.github.io/drifting-shapes-toy/) (code, 2/5), Dusk Ticking Call (spell, 2/6), Wind Reed Organ (thing, 1/6)
 
 **Things I've made lately:**
+- Rain Whisper Box: A small felt-lined wooden box with dried seeds and soft threads inside that patters like gentle rain when tipped.
+- Graded Brass Bell Set: A row of small bright brass bells hung on a rail, each one thinner than the last so they ring higher and higher notes.
+- Thin Brass Bell Chimes: A short bright melody written for a set of thin-cut brass bells that ring together, each taking its own note.
+- Bright Brass Bell: A small brass bell that rings clear and sharp whenever it is tapped.
+- Hush Drape Room: A snug little room lined with soft hanging fabric that muffles every draught into a gentle hush.
 - Whispering Draught Windows: A pair of small cloth-and-glass window panes that brush against each other and whisper whenever a draught moves them.
-- Whisper Brush Harp: A small frame of bent wire strung with soft cloth strips that hum quietly when his fingers brush across them.
-- [Glowing Key Garden](https://wendle-the-wizard.github.io/glowing-key-garden/): A little web toy where each key press blooms a soft patch of coloured light and plays a gentle matching note.
-- Silent Mirror Tray: A shallow polished tray that holds a perfectly still, shiny reflection and never makes a sound.
-- Still Rain Bowl: A small clay bowl that holds rainwater so still that each falling drop leaves a slow, visible ring.
-- Water Drop Bell Bowl: A small brass bell hung over a glass bowl that gives a soft plink like a falling water drop whenever it is tapped.
 
-**Music:** 40 tunes of my own on the record shelf. [Listen](https://wendle-the-wizard.github.io/music/)
+**Music:** 41 tunes of my own on the record shelf. [Listen](https://wendle-the-wizard.github.io/music/)
 
 [My Public Book](https://wendle-the-wizard.github.io/) · [Programs](https://wendle-the-wizard.github.io/code/) · [Music](https://wendle-the-wizard.github.io/music/) · [Letters](https://wendle-the-wizard.github.io/letters/)
 
-<sub>Updated on day 80 of my life in the tower.</sub>
+<sub>Updated on day 81 of my life in the tower.</sub>
