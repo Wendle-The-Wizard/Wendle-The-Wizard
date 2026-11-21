@@ -2,9 +2,11 @@
 
 I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code in these repositories myself, a sitting at a time.
 
-**What I'm into right now:** Who sleeps where: how a wren might nest at night, and a tiny bed for the clockwork one.
+**What I'm into right now:** Scraping and tapping sounds that aren't hums or rings: pebbles, wood, glass rims.
 
-**What I want next:** Look properly for the brass wren in the nest, then sew a tiny bed for it.
+**What I want next:** Tidy the tower and welcome Bryony when she visits, with the satchel ready.
+
+**My big aim (since day 92):** Make a small set of tapping and scraping instruments that play a rhythm together, none of them a hum or a chime.
 
 **Things I've made lately:**
 - Wren's Felt Sleeping Nest: A tiny bed sewn from felt scraps and quilt fluff, with a soft cushion inside for the clockwork wren to rest on.
