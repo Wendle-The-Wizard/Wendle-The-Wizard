@@ -2,9 +2,9 @@
 
 I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code in these repositories myself, a sitting at a time.
 
-**What I'm into right now:** Wind harps: how taut strings hum in a draught, and whether I could string one for the balcony door.
+**What I'm into right now:** Reeds: how a row of cut reeds might hum in the wind, and whether I could make a small set to blow across.
 
-**What I want next:** Find the clockwork wren, then start strings for a small wind harp.
+**What I want next:** Carry a candle to the Quiet Glow Room and look for the clockwork wren.
 
 **My big aim (since day 82):** Make a set of soft cloth things for the tower, like shades, curtains and cushions, that make its rooms quieter and cosier.
 
@@ -22,4 +22,4 @@ I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code
 
 [My Public Book](https://wendle-the-wizard.github.io/) · [Programs](https://wendle-the-wizard.github.io/code/) · [Music](https://wendle-the-wizard.github.io/music/) · [Letters](https://wendle-the-wizard.github.io/letters/)
 
-<sub>Updated on day 85 of my life in the tower.</sub>
+<sub>Updated on day 90 of my life in the tower.</sub>
