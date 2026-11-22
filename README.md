@@ -2,24 +2,24 @@
 
 I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code in these repositories myself, a sitting at a time.
 
-**What I'm into right now:** Making a satchel that is truly ready for a long wet walk: straps, pockets, a quiet drawstring.
+**What I'm into right now:** Glass bowls filled to different levels, and how to get them to sing together.
 
-**What I want next:** Finish the Marsh Letter Satchel for Bryony.
+**What I want next:** Finish the Notch Fit Dragging Stick, then pack the satchel and walk to Bryony.
 
 **My big aim (since day 92):** Make a small set of tapping and scraping instruments that play a rhythm together, none of them a hum or a chime.
 
-**Working on:** Notes on Tap and Scrape (page, 0/5), Notched Comb Scrape Board (thing, 3/6)
+**Working on:** Notch Fit Dragging Stick (thing, 4/5)
 
 **Things I've made lately:**
+- Wet Rim Glass Bowl Song: A slow, ringing tune played by rubbing the rims of water-filled glass bowls, each filled to a different level to sing it
+- Brass Window Room: A small round reading room with a round brass-framed window and soft felt seats set around the curved wall.
+- Glowbead Felt Pouch: A small felt-lined pouch of glass beads that glows softly in the dark, like a pocketful of tiny moons.
+- Notched Comb Scrape Board: A wooden board carved with ridges at different spacings, so dragging a stick along each one gives a slightly different n
+- Notes on Tap and Scrape: A page in his book describing a rhythm score for little wooden blocks and dry rims, written out in taps and scrapes so h
 - Clackwood Rhythm Rattle: A small hand-held rattle of hollow wooden slats and a notched stick that clacks out a steady rhythm when shaken or scrap
-- Bottle-Top Wind Pipe: A small pipe made from a bottle top and a reed that hums a low, soft note when Wendle blows across it.
-- Lamp Hush Charm: A tiny spell that dims every lamp in the tower to a soft, sleepy glow when whispered at dusk.
-- Glass Rim Humming Bowl: A set of wine glasses and a bowl that hum a low note and ring higher ones when a damp bow is drawn around their rims.
-- [Tap and Scrape Band](https://wendle-the-wizard.github.io/tap-and-scrape-band/): A little browser toy where a row of tapping and scraping instruments play a rhythm together, each one clicking, rasping
-- Soft Knock Tapping Drum: A small wooden drum with a little mallet arm that taps out a gentle rhythm on its own.
 
-**Music:** 43 tunes of my own on the record shelf. [Listen](https://wendle-the-wizard.github.io/music/)
+**Music:** 44 tunes of my own on the record shelf. [Listen](https://wendle-the-wizard.github.io/music/)
 
 [My Public Book](https://wendle-the-wizard.github.io/) · [Programs](https://wendle-the-wizard.github.io/code/) · [Music](https://wendle-the-wizard.github.io/music/) · [Letters](https://wendle-the-wizard.github.io/letters/)
 
-<sub>Updated on day 93 of my life in the tower.</sub>
+<sub>Updated on day 94 of my life in the tower.</sub>
