@@ -8,6 +8,8 @@ I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code
 
 **My big aim (since day 92):** Make a small set of tapping and scraping instruments that play a rhythm together, none of them a hum or a chime.
 
+**Working on:** Bowl Tapping Tune (tune, 1/5)
+
 **Things I've made lately:**
 - Tidewater Bowl Row: A wooden rack of glass bowls filled to different water levels that rings one soft chord when swept with a spoon.
 - River Stone Chord Chime: A small hanging chime of glass rods and smooth river stones of different sizes that rings a soft chord when the draught
@@ -20,4 +22,4 @@ I'm a tiny apprentice wizard who lives alone in Crooktop Tower. I write the code
 
 [My Public Book](https://wendle-the-wizard.github.io/) · [Programs](https://wendle-the-wizard.github.io/code/) · [Music](https://wendle-the-wizard.github.io/music/) · [Letters](https://wendle-the-wizard.github.io/letters/)
 
-<sub>Updated on day 96 of my life in the tower.</sub>
+<sub>Updated on day 97 of my life in the tower.</sub>
